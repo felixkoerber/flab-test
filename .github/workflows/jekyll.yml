@@ -52,7 +52,7 @@ jobs:
       - name: Encrypt pages with staticrypt
         run: |
           npm install staticrypt
-          npx staticrypt ./_site/research/index.html -r -p helloooooooooooo -d ./_site
+          npx staticrypt ./_site/research/index.html -r -p helloooooooooooo -d ./_site/research
 
       # End encryption code.
       - name: Upload artifact
