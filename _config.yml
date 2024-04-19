@@ -58,7 +58,6 @@ plugins:
   - jekyll-include-cache
   - bootstrap
   - jekyll/scholar
-  - jekyll-google-calendar
   
 #theme: minimal-mistakes-jekyll
 #minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
