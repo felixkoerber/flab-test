@@ -1,2 +1,2 @@
-pages/research.html examplepassword
+flab-test/research.html examplepassword
 example-2.html repo_by_evanbaldonado.com!
