@@ -1,2 +1,2 @@
-research.html examplepassword
+research/index.html examplepassword
 example-2.html repo_by_evanbaldonado.com!
